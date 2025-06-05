@@ -22,7 +22,9 @@ o Implement role-based access control for specific resources.
 • Evaluation Criteria: 
 o Security best practices (e.g., password hashing, token expiration). 
 o Proper middleware usage for protecting routes. 
-o Scalability considerations  
+o Scalability consideration
+
+
 Frontend Developer Live Coding Challenges 
 1. Build a Dynamic To-Do List 
 • Task: Create a to-do list application with interactive features.  
