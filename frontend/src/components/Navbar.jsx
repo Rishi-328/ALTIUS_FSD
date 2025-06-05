@@ -20,8 +20,9 @@ function Navbar() {
             alt="Logo"
             style={{ height: '32px', marginRight: '10px' }}
           />
-          ALTIUSHUB
+          ToDo
         </Link>
+        <Link className="navbar-brand d-flex align-items-center" to="/search">Search Table</Link>
         <button
           className="navbar-toggler"
           type="button"

@@ -6,6 +6,7 @@ import Signup from './components/Signup'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 // import Cards from './components/Cards'
+import Search from './components/Search'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<Home/>} />
           <Route path="/login" element={<Login/>} />
           <Route path="/signup" element={<Signup/>} />
+          <Route path="/search" element={<Search/>}/>
         </Routes>
         {/* <Footer/> */}
       </Router>
